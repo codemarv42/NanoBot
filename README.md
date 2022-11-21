@@ -31,6 +31,14 @@ Parameter for PCB (NanoBot REV1):
 - Height: 100.8mm
 - Minimum Copper Trace Width: 0.15mm
 
+## Improvements
+
+> - [ ] Place light sensors in the center to avoid poor ambient light conditions and increase maneuverability
+> - [ ] Better XT-30 position on the PCB
+> - [ ] More external ports
+> - [ ] Internal Li-Po charger, which draws power via USB-C PD
+> - [ ] Physical switch to disconnect the battery from the PCB
+
 ![NanoBotRev1](https://github.com/codemarv42/NanoBot/blob/main/Hardware/NanoBot%20REV%20V1/Real4.JPG)
 
 # Software
@@ -69,4 +77,6 @@ To compile your own program and then upload it to the NanoBot, some steps are ne
 - Partition Scheme: "Minimal SPIFFS (1.9MB APP with OTA/190KB SPIFFS)" **for smaller code: Default**
 - Programmer: "AVRISP mkll"
 
+## Improvements
 
+> - [ ] Develop a communication protocol for the ESP32 and Jetson Nano via the I2C pins
