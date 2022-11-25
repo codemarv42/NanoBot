@@ -6,7 +6,7 @@ The NanoBot is basically a small robot, which was developed for educational purp
 
 # Hardware
 
-The hardware of this project consists of a self-developed circuit board and 3D printed parts made of TPU and PLA. 
+The hardware of this project consists of a self-developed circuit board and 3D printed parts made of TPE 60A and PLA. 
 
 ## Short building instruction
 
