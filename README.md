@@ -31,6 +31,21 @@ Parameter for PCB (NanoBot REV1):
 - Height: 100.8mm
 - Minimum Copper Trace Width: 0.15mm
 
+## 3D printed parts
+
+For better light measurements, it is recommended to print out the three different light guards and attach them with superglue. Also, use TPE 60A for the tires, as this elastic material prevents the robot from slipping on the floor, unlike TPU.
+
+Parts: 
+- 4x Motor bracket PLA (40% infill)
+- 1x Single light sensor protection TPU
+- 2x Dual light sensor protection TPU
+- 1x Large light sensor protection TPU
+- 4x Tire TPE 60A
+- 1x Rotary encoder knob TPU / TPE
+- 4x Rim PLA
+
+![NanoBotRev1](https://github.com/codemarv42/NanoBot/blob/main/Hardware/3D%20Models/Light%20sensors/Light%20protection.jpg)
+
 ## Improvements
 
 > - [ ] Place light sensors in the center to avoid poor ambient light conditions and increase maneuverability
