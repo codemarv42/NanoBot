@@ -45,7 +45,9 @@ Parts:
 - 1x Rotary encoder knob TPU / TPE
 - 4x Rim PLA
 
-![NanoBotRev1](https://github.com/codemarv42/NanoBot/blob/main/Hardware/3D%20Models/Light%20sensors/Light%20protection.jpg)
+<img src="https://github.com/codemarv42/NanoBot/blob/main/Hardware/3D%20Models/Tires/Flange%20coupling%20connector.png" width=40% height=40%>
+
+![Light protector](https://github.com/codemarv42/NanoBot/blob/main/Hardware/3D%20Models/Light%20sensors/Light%20protection.jpg)
 
 ## Improvements
 
@@ -57,7 +59,8 @@ Parts:
 > - [ ] Battery under discharge protection
 > - [ ] Additional light sensors on the outside of the board and RGB Leds
 
-![NanoBotRev1](https://github.com/codemarv42/NanoBot/blob/main/Hardware/NanoBot%20REV%20V1/Real4.JPG)
+
+![Nano Bot REV1](https://github.com/codemarv42/NanoBot/blob/main/Hardware/NanoBot%20REV%20V1/Real4.JPG)
 
 # Software
 
