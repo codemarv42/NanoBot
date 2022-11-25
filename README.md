@@ -38,6 +38,8 @@ Parameter for PCB (NanoBot REV1):
 > - [ ] More external ports
 > - [ ] Internal Li-Po charger, which draws power via USB-C PD
 > - [ ] Physical switch to disconnect the battery from the PCB
+> - [ ] Battery under discharge protection
+> - [ ] Additional light sensors on the outside of the board and RGB Leds
 
 ![NanoBotRev1](https://github.com/codemarv42/NanoBot/blob/main/Hardware/NanoBot%20REV%20V1/Real4.JPG)
 
