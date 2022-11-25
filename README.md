@@ -36,6 +36,7 @@ Parameter for PCB (NanoBot REV1):
 For better light measurements, it is recommended to print out the three different light guards and attach them with superglue. Also, use TPE 60A for the tires, as this elastic material prevents the robot from slipping on the floor, unlike TPU.
 
 Parts: 
+- ***4x Flange coupling connector 3mm (not 3d printed!)***
 - 4x Motor bracket PLA (40% infill)
 - 1x Single light sensor protection TPU
 - 2x Dual light sensor protection TPU
