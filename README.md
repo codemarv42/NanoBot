@@ -26,7 +26,7 @@ The required components are listed in the Excel document in the hardware folder 
 Parameter for PCB (NanoBot REV1):
 
 - Layer: 2
-- Thickness: 1,6mm
+- Thickness: 1,6mm /2mm
 - Length: 112.9mm
 - Height: 100.8mm
 - Minimum Copper Trace Width: 0.15mm
