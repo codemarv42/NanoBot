@@ -58,6 +58,7 @@ Parts:
 > - [ ] Physical switch to disconnect the battery from the PCB
 > - [ ] Battery under discharge protection
 > - [ ] Additional light sensors on the outside of the board and RGB Leds
+> - [ ] Constant motor voltage
 
 
 ![Nano Bot REV1](https://github.com/codemarv42/NanoBot/blob/main/Hardware/NanoBot%20REV%20V1/Real4.JPG)
