@@ -51,13 +51,13 @@ Parts:
 
 ## Improvements
 
-> - [ ] Place light sensors in the center to avoid poor ambient light conditions and increase maneuverability
+> - [ ] Place light sensors in the center to increase maneuverability
 > - [ ] Better XT-30 position on the PCB
 > - [ ] More external ports
 > - [ ] Internal Li-Po charger, which draws power via USB-C PD
 > - [ ] Physical switch to disconnect the battery from the PCB
 > - [ ] Battery under discharge protection
-> - [ ] Additional light sensors on the outside of the board and RGB Leds
+> - [ ] Additional light sensors on the outside of the PCB
 > - [ ] Constant motor voltage
 
 
