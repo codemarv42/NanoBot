@@ -59,6 +59,7 @@ Parts:
 > - [ ] Battery under discharge protection
 > - [ ] Additional light sensors on the outside of the PCB
 > - [ ] Constant motor voltage
+> - [ ] Jetson Nano power supply with short circuit protection
 
 
 ![Nano Bot REV1](https://github.com/codemarv42/NanoBot/blob/main/Hardware/NanoBot%20REV%20V1/Real4.JPG)
