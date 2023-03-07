@@ -61,6 +61,9 @@ Parts:
 > - [ ] Constant motor voltage
 > - [ ] Jetson Nano power supply with short circuit protection
 > - [ ] Material reflective sensor on the bottom
+> - [ ] Use Led with a wider spectrum
+> - [ ] Esd and insulation around gyro sensor
+
 
 ![Nano Bot REV1](https://github.com/codemarv42/NanoBot/blob/main/Hardware/NanoBot%20REV%20V1/Real4.JPG)
 
