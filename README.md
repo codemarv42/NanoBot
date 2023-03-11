@@ -104,6 +104,7 @@ To compile your own program and then upload it to the NanoBot, some steps are ne
 - Flash Size: "16MB (128Mb)" **4MB if you installed the W25Q32JVZPIQ Flash**
 - Partition Scheme: "Minimal SPIFFS (1.9MB APP with OTA/190KB SPIFFS)" **for smaller code: Default**
 - Programmer: "AVRISP mkll"
+- Erase all flash: "Disabled"
 
 ## Improvements
 
