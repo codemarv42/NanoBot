@@ -63,6 +63,8 @@ Parts:
 > - [ ] Material reflective sensor on the bottom
 > - [ ] Use Led with a wider spectrum
 > - [ ] Esd and insulation around gyro sensor
+> - [ ] Reset button does not work
+> - [ ] Mounting holes next to the light sensor bar and the silver strip sensor
 
 
 ![Nano Bot REV1](https://github.com/codemarv42/NanoBot/blob/main/Hardware/NanoBot%20REV%20V1/Real4.JPG)
