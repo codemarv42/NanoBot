@@ -112,7 +112,7 @@ To compile your own program and then upload it to the NanoBot, some steps are ne
 
 ## Flash BIN files to the robot
 
-- Download the flash tool: https://www.espressif.com/sites/default/files/tools/flash_download_tool_3.9.4.zip
+- Download the flash tool: https://www.espressif.com/en/support/download/other-tools
 - Unzip the downloaded ZIP file and copy the selected BIN file into the bin folder contained in the unzipped file
 - Start the exe file and select esp32
 - Press the upper first box and then select the path of the bin file
