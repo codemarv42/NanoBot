@@ -108,4 +108,14 @@ To compile your own program and then upload it to the NanoBot, some steps are ne
 
 ## Improvements
 
-> - [ ] Develop a communication protocol for the ESP32 and Jetson Nano via the I2C pins
+> - [ ] Develop a communication protocol for the ESP32 and Jetson Nano via the I2C pin
+
+## Flash BIN files to the robot
+
+- Download the flash tool: https://www.espressif.com/sites/default/files/tools/flash_download_tool_3.9.4.zip
+- Unzip the downloaded ZIP file and copy the selected BIN file into the bin folder contained in the unzipped file
+- Start the exe file and select esp32
+- Press the upper first box and then select the path of the bin file
+- write next to the "@": 0x10000
+- Then connect the robot to the pc and select the correct COM port (If the COM port is not displayed, install the driver)
+- Click on start und press the boot button on the robot (If the boot button is not present, bridge the two pads with the name: "BOOT" and "GND")
