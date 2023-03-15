@@ -118,4 +118,4 @@ To compile your own program and then upload it to the NanoBot, some steps are ne
 - Press the upper first box and then select the path of the bin file
 - write next to the "@": 0x10000
 - Then connect the robot to the pc and select the correct COM port (If the COM port is not displayed, install the driver)
-- Click on start und press the boot button on the robot (If the boot button is not present, bridge the two pads with the name: "BOOT" and "GND")
+- Click on start und press the boot button on the robot, if the upload does not start (If the boot button is not present, bridge the two pads with the name: "BOOT" and "GND")
