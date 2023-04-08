@@ -52,19 +52,19 @@ Parts:
 ## Improvements
 
 > - [ ] Place light sensors in the center to increase maneuverability
-> - [ ] Better XT-30 position on the PCB
-> - [ ] More external ports
-> - [ ] Internal Li-Po charger, which draws power via USB-C PD
-> - [ ] Physical switch or MOSFET to disconnect the battery from the PCB
-> - [ ] Battery under discharge protection
-> - [ ] Additional light sensors on the outside of the PCB
-> - [ ] Constant motor voltage
+> - [X] Better XT-30 position on the PCB
+> - [X] More external ports
+> - [X] Internal Li-Po charger, which draws power via USB-C PD
+> - [X] Physical switch or MOSFET to disconnect the battery from the PCB
+> - [X] Battery under discharge protection
+> - [X] Additional light sensors on the outside of the PCB
+> - [X] Constant motor voltage
 > - [ ] Jetson Nano power supply with short circuit protection
-> - [ ] Material reflective sensor on the bottom
-> - [ ] Use Led with a wider spectrum
+> - [X] Material reflective sensor on the bottom
+> - [X] Use Led with a wider spectrum
 > - [ ] Esd and insulation around gyro sensor
-> - [ ] Reset button does not work
-> - [ ] Mounting holes next to the light sensor bar and the silver strip sensor
+> - [X] Reset button does not work
+> - [X] Mounting holes next to the light sensor bar and the silver strip sensor
 
 
 ![Nano Bot REV1](https://github.com/codemarv42/NanoBot/blob/main/Hardware/NanoBot%20REV%20V1/Real4.JPG)
