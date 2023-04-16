@@ -62,7 +62,7 @@ Parts:
 > - [ ] Jetson Nano power supply with short circuit protection
 > - [X] Material reflective sensor on the bottom
 > - [X] Use Led with a wider spectrum
-> - [ ] Esd and insulation around gyro sensor
+> - [X] Esd and insulation around gyro sensor
 > - [X] Reset button does not work
 > - [X] Mounting holes next to the light sensor bar and the silver strip sensor
 
