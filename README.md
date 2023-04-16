@@ -80,7 +80,7 @@ Required libraries:
 - ESP32_Servo.h - https://github.com/jkb-git/ESP32Servo
 - MPU6050_light.h - https://github.com/rfetick/MPU6050_light
 - CD74HC4067.h - https://github.com/waspinator/CD74HC4067
-- VL53L0X.h - https://github.com/pololu/vl53l0x-arduino
+- VL53L1X.h - https://github.com/pololu/vl53l1x-arduino
 - Adafruit_TCS34725.h - https://github.com/adafruit/Adafruit_TCS34725
 
 ## USB driver
