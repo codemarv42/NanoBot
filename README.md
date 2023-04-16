@@ -82,6 +82,7 @@ Required libraries:
 - CD74HC4067.h - https://github.com/waspinator/CD74HC4067
 - VL53L1X.h - https://github.com/pololu/vl53l1x-arduino
 - Adafruit_TCS34725.h - https://github.com/adafruit/Adafruit_TCS34725
+- Adafruit_BusIO - https://github.com/adafruit/Adafruit_BusIO
 
 ## USB driver
 
