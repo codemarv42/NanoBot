@@ -10,6 +10,8 @@ The hardware of this project consists of a self-developed circuit board and 3D p
 
 ## Short building instruction
 
+### Note that only the first version of the NanoBot board works without problems, so it is not recommended to rebuild the latest version!
+
 The assembly of the robot requires **extensive equipment and experience** in soldering SMD components. How you solder the components is up to you.
 
 Recommended tools:
@@ -31,6 +33,14 @@ Parameter for PCB (NanoBot REV1):
 - Height: 100.8mm
 - Minimum Copper Trace Width: 0.15mm
 
+Parameter for PCB (NanoBot REV2):
+
+- Layer: 2
+- Thickness: 1,6mm / 2mm
+- Length: 112.9mm
+- Height: 100.8mm
+- Minimum Copper Trace Width: 0.15mm
+
 ## 3D printed parts
 
 For better light measurements, it is recommended to print out the three different light guards and attach them with superglue. Also, use TPE 60A for the tires, as this elastic material prevents the robot from slipping on the floor, unlike TPU.
@@ -38,9 +48,8 @@ For better light measurements, it is recommended to print out the three differen
 Parts: 
 - ***4x Flange coupling connector 3mm (not 3d printed!)***
 - 4x Motor bracket PLA (40% infill)
-- 1x Single light sensor protection TPU
-- 2x Dual light sensor protection TPU
-- 1x Large light sensor protection TPU
+- 1x light sensor protection Resin (Black)
+- 2x Outer light sensor protection Resin (Black)
 - 4x Tire TPE 60A
 - 1x Rotary encoder knob TPU / TPE
 - 4x Rim PLA
@@ -52,6 +61,7 @@ Parts:
 ## Improvements
 
 > - [ ] Place light sensors in the center to increase maneuverability
+> - [ ] Bigger Tires
 > - [X] Better XT-30 position on the PCB
 > - [X] More external ports
 > - [X] Internal Li-Po charger, which draws power via USB-C PD
@@ -63,7 +73,7 @@ Parts:
 > - [X] Material reflective sensor on the bottom
 > - [X] Use Led with a wider spectrum
 > - [X] Esd and insulation around gyro sensor
-> - [X] Reset button does not work
+> - [ ] Reset button does not work
 > - [X] Mounting holes next to the light sensor bar and the silver strip sensor
 
 
