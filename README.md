@@ -4,6 +4,7 @@ The NanoBot is basically a small robot, which was developed for educational purp
 
 ![NanoBotRev1](https://github.com/codemarv42/NanoBot/blob/main/Hardware/NanoBot%20REV%20V1/Real1.JPG)
 
+
 # Hardware
 
 The hardware of this project consists of a self-developed circuit board and 3D printed parts made of TPE 60A and PLA. 
@@ -76,8 +77,7 @@ Parts:
 > - [ ] Reset button does not work
 > - [X] Mounting holes next to the light sensor bar and the silver strip sensor
 
-
-![Nano Bot REV1](https://github.com/codemarv42/NanoBot/blob/main/Hardware/NanoBot%20REV%20V1/Real4.JPG)
+![Nano Bot REV2](https://github.com/codemarv42/NanoBot/blob/main/Hardware/Nano%20Bot%20REV%20V2/PXL_20230427_140323679~2.jpg)
 
 # Software
 
